@@ -1,0 +1,21 @@
+.null_movie {
+  justify-content: center;
+  margin: 30px;
+  font-size: 20px;
+  color: red;
+  align-items: center;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+p {
+  color: #a2b5bb;
+}
+
+.list_cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

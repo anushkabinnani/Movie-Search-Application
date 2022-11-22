@@ -1,0 +1,51 @@
+.header {
+  margin: 5px 10px;
+  padding: 0.5rem 0;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.headerLeft {
+  display: flex;
+  align-items: center;
+}
+
+.app_icon {
+  height: 50px;
+  width: 50px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.header_styles {
+  text-decoration: none;
+}
+
+a > span {
+  margin: 0 20px;
+  font-size: 1.3rem;
+  cursor: pointer;
+  color: white;
+}
+
+a > span:hover {
+  color: #ffc933;
+}
+
+.search_box {
+  margin-left: 30px;
+}
+
+.search_box input {
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.fa {
+  border-radius: 5px;
+}
+
+.fa-search {
+  padding: 5px;
+}
